@@ -1,5 +1,3 @@
-# agneshosea
-
 # Hi, I'm Agnes Hosea 👋
 
 I'm a Computer Science student with an interest in technology, data and research.
